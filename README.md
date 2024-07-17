@@ -12,7 +12,8 @@
 
 - Calculando Consumo e Limite de Dados Móveis:
   1. Cálculo de Consumo de Dados Móveis
-  2. 
+  2. Verificação de Limite de Dados Móveis
+
 - Calculando Consumo e Desconto de Telefonia:
   1. Calculando o Consumo de Crédito em Ligações Telefônicas
   2. Cálculo de Desconto Progressivo em Combo
