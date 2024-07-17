@@ -10,4 +10,5 @@
   1. Verificação de Serviço Contratado
   2. Verificação de Contratação de Combo Completo
 
-- 
+- Calculando Consumo e Limite de Dados Móveis:
+- Calculando Consumo e Desconto de Telefonia:
