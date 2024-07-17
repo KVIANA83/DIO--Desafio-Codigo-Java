@@ -4,4 +4,6 @@
 
 - Verificando Velocidade Média e Queda de Conexão:
   1. Velocidade Média de Conexão
-  2. 
+  2. Verificação de Queda de Conexão
+
+- 
