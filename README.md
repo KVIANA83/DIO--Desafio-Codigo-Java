@@ -6,4 +6,6 @@
   1. Velocidade Média de Conexão
   2. Verificação de Queda de Conexão
 
-- 
+- Explorando Serviços de Telefonia:
+  1. Verificação de Serviço Contratado
+  2. 
