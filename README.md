@@ -8,4 +8,6 @@
 
 - Explorando Serviços de Telefonia:
   1. Verificação de Serviço Contratado
-  2. 
+  2. Verificação de Contratação de Combo Completo
+
+- 
