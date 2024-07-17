@@ -13,4 +13,4 @@
 - Calculando Consumo e Limite de Dados Móveis:
 - Calculando Consumo e Desconto de Telefonia:
   1. Calculando o Consumo de Crédito em Ligações Telefônicas
-  2. 
+  2. Cálculo de Desconto Progressivo em Combo
